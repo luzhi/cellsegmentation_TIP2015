@@ -5,7 +5,7 @@ Code for the paper "An Improved Joint Optimization of Multiple Level Set Functio
 
 **The dataset** can be downloaded at http://goo.gl/7oDJlc for TAR.GZ format
 
-**OR** http://goo.gl/8VZby2 for ZIP format.
+**OR** https://cs.adelaide.edu.au/~zhi/project/TIP_CellSegJointLS_2014/Dataset.zip for ZIP format.
 
 Change log:
 -----------
