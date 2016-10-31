@@ -12,5 +12,7 @@ Code for the paper "An Improved Joint Optimization of Multiple Level Set Functio
 Change log:
 -----------
 05-Jan-2015   Create the project, upload the first version of the code.
+
 23-Aug-2016	  Evaluation code from Hady Ahmady Phoulady.
+
 01-Nov-2016	  Update README.md, add the link to VLFeat library.
